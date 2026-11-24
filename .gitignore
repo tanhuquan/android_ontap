@@ -1,0 +1,59 @@
+# Built application files / binaries
+*.apk
+*.aar
+*.ap_
+*.aab
+output-metadata.json
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated and build files
+bin/
+gen/
+out/
+build/
+**/build/
+.gradle/
+.kotlin/
+
+# Local configuration file (sdk path, personal configs)
+local.properties
+
+# Proguard / R8
+proguard/
+
+# Log and Profiling files
+*.log
+*.hprof
+captures/
+
+# Android Studio / IntelliJ IDEA
+*.iml
+*.ipr
+*.iws
+.idea/
+misc.xml
+deploymentTargetDropDown.xml
+deploymentTargetSelector.xml
+render.experimental.xml
+
+# NDK / C++
+.externalNativeBuild/
+.cxx/
+
+# Keystore / Signing
+*.jks
+*.keystore
+signing.properties
+secrets.properties
+
+# Google Services / Sensitive configurations (uncomment if you want to exclude Firebase config)
+# google-services.json
+
+# OS generated files
+.DS_Store
+Thumbs.db
